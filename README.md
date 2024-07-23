@@ -6,3 +6,5 @@ The custom Cherry MX KiCad footprint library used is posted at the Dholydai/mx-s
 Details are posted on my website at quixotickeyboards.com
 
 Ronald Walker
+
+23 Jul 2024 posted the left-hand and right-hand compact files. The trio is complete.
