@@ -5259,10 +5259,10 @@ minkowski()
 translate([126,35.5,15.89])
     cube([9.8,14.1,1.11]);
 //Slot Patches
-translate([89.71,40,15.89])
+translate([90.6,40,15.89])
     cube([36.4,5,1.11]);
 translate([151.175,40,15.89])
-    cube([26.75,5,1.11]);
+    cube([25.9,5,1.11]);
 //Joints
 //Right Fore
 translate([171.975,3,2])
