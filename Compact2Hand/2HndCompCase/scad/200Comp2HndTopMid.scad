@@ -10467,10 +10467,11 @@ translate([110.6,154.35,15.89])
 translate([145,35.5,15.89])
     cube([9.8,14.1,1.11]);
 //Slot Patches
-translate([108.76,40,15.89])
+translate([109.76,40,15.89])
     cube([36.4,5,1.11]);
 translate([170.225,40,15.89])
-    cube([26.75,5,1.11]); 
+    cube([25.75,5,1.11]);
+
 //Joints
 //Fore Left
 translate([95.725,3,2])
