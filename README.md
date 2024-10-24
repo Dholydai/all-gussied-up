@@ -8,5 +8,7 @@ Please visit https://quixotickeyboards.com for more information.
 Ronald Walker
 
 23 Jul 2024 posted the left-hand and right-hand compact files. The trio is completed!
+
 14 Aug 2024 posted the two-hand TKL files.
+
 23 Oct 2024 changed the firmware files for the compact trio. Better edit key layout. 
