@@ -2,7 +2,7 @@
 
 MAJOR CHANGES HAVE ARRIVED!
 
-This repository will be removed shortly. Replaced with a new one called writerz-with-an-attitude.
+This repository will be removed shortly. Most variants have been moved to a new one called writerz-with-an-attitude.
 
 I designed wonderfully sleek cases for my Dvorak 2024. All of my keyboard PCBs have been reworked to fit the new cases... except the TKL
 
